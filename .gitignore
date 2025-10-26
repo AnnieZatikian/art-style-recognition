@@ -1,0 +1,19 @@
+# Ignore model files
+*.h5
+models/
+
+# Ignore cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore Streamlit caches
+.streamlit/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
